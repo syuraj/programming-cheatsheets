@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Heroku CheatSheets](README.md)
+* [Heroku CheatSheet](README.md)
+* [MongoDB CheatSheet](mongodb-cheatsheet.md)
 
