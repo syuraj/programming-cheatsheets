@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Heroku CheatSheet](README.md)
-* [Docker CheatSheet](docker-cheatsheet.md)
+* [Docker CheatSheet](README.md)
+* [Heroku CheatSheet](docker-cheatsheet.md)
 * [MongoDB CheatSheet](mongodb-cheatsheet.md)
 * [Python CheatSheet](python-cheatsheet.md)
 
